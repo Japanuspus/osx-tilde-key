@@ -1,3 +1,5 @@
+**Update 2022-08-10**: This approach is flaky when adding and removing keyboards. A better solution is to define custom layout with [Ukelele](https://software.sil.org/ukelele/).
+
 # OS X tilde key mapping
 
 Set user key mappings suitable for US-international keyboard to get 
